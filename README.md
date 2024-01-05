@@ -4,3 +4,4 @@
 | script名 | アプリ | 内容 |
 |:---|:---|:---|
 | PDF_A3toA4_sort.js | Acrobat | 冊子A3からA4に切り出したPDFをページ順にソートする |
+| makePDF.jsx | illustrator | ai→pdfへの変換。プリセット＆アートボードサイズ設定可 |
